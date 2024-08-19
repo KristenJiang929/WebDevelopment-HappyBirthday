@@ -132,7 +132,6 @@ body {
   white-space: pre-wrap; /* 保留空格和换行符 */
   margin: 10px;
   padding: 10px 0;
-  visibility: visible; /* 确保元素可见 */
   display: block; /* 确保元素是块级元素 */
   opacity: 1; /* 确保元素不透明 */
 }
